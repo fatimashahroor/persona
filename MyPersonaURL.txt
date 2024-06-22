@@ -1,1 +1,1 @@
-https://mail.google.com/mail/u/2?ui=2&ik=b077b630f6&attid=0.1&permmsgid=msg-f:1802556954894344273&th=1903f80007e32051&view=att&disp=safe&realattid=1903f7bf44c8ae238931
+https://orchestration.civitai.com/v1/consumer/images/A3B55F715F73E99A5FBC190A29057D61947796DE179BD7F82A1F163BD4E511B0
